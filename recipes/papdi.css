@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  color: #303030;
+  background-color: lightcoral;
+}
+
+h1{
+  color: aqua;
+}
+
+h2{
+  color: #a4f9f9;
+}
+
+img{
+  border-radius: 11%;
+}
